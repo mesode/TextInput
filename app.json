@@ -1,0 +1,12 @@
+{
+  "name": "TextInput",
+  "displayName": "TextInput",
+  "expo": {
+    "name": "TextInput",
+    "slug": "TextInput",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
